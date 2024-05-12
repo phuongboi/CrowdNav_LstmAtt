@@ -5,9 +5,10 @@
 #### Update history
 * 12/05/2024: Upload baseline with LSTM
 ##### Test result with 500 cases
-![alt text](/home/samvdh/2023_RL/code/CrowdNav/crowd_nav/data/output_lstm/Screenshot from 2024-05-12 13-51-36.png)
+![alt text](https://github.com/phuongboi/CrowdNav_LstmAtt/tree/main/crowd_nav/data/output_lstm/Screenshot from 2024-05-12 13-51-36.png)
+
 ##### Test case visualize
-![alt text](/home/samvdh/2023_RL/code/CrowdNav/crowd_nav/data/output_lstm/lstm.gif)
+![alt text](https://github.com/phuongboi/CrowdNav_LstmAtt/tree/main/crowd_nav/data/output_lstm/lstm.gif)
 
 #### Reference
 * [1] https://github.com/vita-epfl/CrowdNav

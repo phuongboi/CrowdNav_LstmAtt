@@ -5,7 +5,7 @@
 #### Update history
 * 12/05/2024: Upload baseline with LSTM
 ##### Test result with 500 cases
-![alt text](https://github.com/phuongboi/CrowdNav_LstmAtt/tree/main/crowd_nav/data/output_lstm/lstm_table.png)
+![alt text](https://github.com/phuongboi/CrowdNav_LstmAtt/blob/main/crowd_nav/data/output_lstm/lstm_table.png)
 
 ##### Test case visualize
 ![alt text](https://github.com/phuongboi/CrowdNav_LstmAtt/blob/main/crowd_nav/data/output_lstm/lstm.gif)

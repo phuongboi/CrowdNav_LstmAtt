@@ -12,7 +12,6 @@ class Explorer(object):
         self.memory = memory
         self.gamma = gamma
         self.target_policy = target_policy
-        print(self.target_policy)
         self.target_model = None
 
     def update_target_model(self, target_model):

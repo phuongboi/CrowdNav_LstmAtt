@@ -91,7 +91,7 @@ class ValueNetwork2(nn.Module):
         return value
 
 
-class LSTM_ATT(MultiHumanRL):
+class LSTM_MHA(MultiHumanRL):
     def __init__(self):
         super().__init__()
         self.name = 'LSTM-ATT'

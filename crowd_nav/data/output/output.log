@@ -1,0 +1,15 @@
+2024-05-14 23:23:05, INFO: Current git head hash code: %s
+2024-05-14 23:23:05, INFO: Using device: cpu
+2024-05-14 23:23:05, INFO: Policy: MHA
+2024-05-14 23:23:05, INFO: human number: 5
+2024-05-14 23:23:05, INFO: Not randomize human's radius and preferred speed
+2024-05-14 23:23:05, INFO: Training simulation: circle_crossing, test simulation: circle_crossing
+2024-05-14 23:23:05, INFO: Square width: 10.0, circle width: 4.0
+2024-05-14 23:23:05, INFO: Current learning rate: 0.010000
+2024-05-14 23:23:12, INFO: TRAIN has success rate: 0.89, collision rate: 0.10, nav time: 12.25, total reward: 0.2361
+2024-05-14 23:23:19, INFO: Finish imitation learning. Weights saved.
+2024-05-14 23:23:19, INFO: Experience set size: 9065/100000
+2024-05-14 23:23:19, INFO: Agent is invisible and has holonomic kinematic constraint
+2024-05-14 23:23:19, INFO: Current learning rate: 0.001000
+2024-05-14 23:23:40, INFO: TRAIN in episode 0 has success rate: 0.00, collision rate: 0.00, nav time: 25.00, total reward: 0.0000
+2024-05-14 23:23:58, INFO: TRAIN in episode 1 has success rate: 0.00, collision rate: 1.00, nav time: 25.00, total reward: -0.0671

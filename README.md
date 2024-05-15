@@ -6,7 +6,7 @@
 * 14/05/2024: I use attention mechanism from SARL to re-rank human's observable vectors, which human have highest attention scores will feed into last cell of LSTM, the modification reduced average time to goal value from 12.38 to 11.44. Beside that, I test model which trained with circle crossing setting with square crossing setting (cross domain).
 * 12/05/2024: Upload baseline with LSTM
 ##### Test result with 500 cases
-![alt text](https://github.com/phuongboi/CrowdNav_LstmAtt/blob/main/crowd_nav/data/output_lstm_att/result_table.png)
+![alt text](https://github.com/phuongboi/CrowdNav_LstmAtt/blob/main/crowd_nav/data/output_sarl/result_table.png)
 
 ##### Test case visualize
 ![alt text](https://github.com/phuongboi/CrowdNav_LstmAtt/blob/main/crowd_nav/data/output_lstm_rl/lstm.gif)

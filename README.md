@@ -11,6 +11,8 @@
 ##### Test case visualize
 ![alt text](https://github.com/phuongboi/CrowdNav_LstmAtt/blob/main/crowd_nav/data/output_lstm_rl/lstm.gif)
 
+#### How to run
+* The same with original repository [CrowdNav](https://github.com/vita-epfl/CrowdNav) `python train.py --policy lstm_att`
 #### Reference
 * [1] https://github.com/vita-epfl/CrowdNav
 * [2] Chen, Yu Fan, et al. "Decentralized non-communicating multiagent collision avoidance with deep reinforcement learning." 2017 IEEE international conference on robotics and automation (ICRA). IEEE, 2017.

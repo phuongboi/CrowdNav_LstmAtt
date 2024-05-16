@@ -33,6 +33,7 @@ class ValueNetwork(nn.Module):
         :return:
         """
         size = state.shape
+        print(self.self_state_dim, size)
         self_state = state[:, 0, :self.self_state_dim]
         mlp1_output = self.mlp1(state.view((-1, size[2])))
         mlp2_output = self.mlp2(mlp1_output)

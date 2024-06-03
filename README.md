@@ -1,7 +1,7 @@
 ### Robot navigation in crowd
 * In this repository, I find an efficient way to encode crowd behavior information
 * I adapt the baseline from [CrowdNav](https://github.com/vita-epfl/)
-* Refer to my simple baseline with Q-learning, easy to use [Robot navagation in crow(updating)](https://github.com/phuongboi/robot-navigation-in-crowd]
+* Refer to my simple baseline with Q-learning, easy to use [Robot navagation in crow(updating)](https://github.com/phuongboi/robot-navigation-in-crowd)
 
 #### Update history
 *
